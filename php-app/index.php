@@ -23,4 +23,6 @@
   }
   $conn->close();
 
+  echo "New version\n"
+
 ?>
