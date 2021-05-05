@@ -1,3 +1,4 @@
 <?php 
-  echo "Hello World";
+  echo "Hello World\n";
+  echo "Hello World2\n";
 ?>
